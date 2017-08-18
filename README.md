@@ -7,10 +7,11 @@
 3. [오픈소스 거버넌스](./Governance/index.md)
 4. [오픈소스 시장과 정책 자료](./Market/index.md)
 5. [오픈소스 교육](./Education/index.md)
-6. [오픈소스 관련 조직들 (프로젝트 조직 제외)](./Organization/index.md)
-7. [오픈소스 성숙도 모델](./Maturity_Model/index.md)
-8. [오픈소스 관련 논문](./Research/index.md)
-9. [오픈 데이터](./Data/index.md)
+6. [오픈소스 관련 조직](./Organization/index.md)
+7. [오픈소스 프로젝트](./Project/index.md)
+8. [오픈소스 성숙도 모델](./Maturity_Model/index.md)
+9. [오픈소스 관련 논문](./Research/index.md)
+10. [오픈 데이터](./Data/index.md)
 
 -----
 저작권: 이 Repository의 .md 문서들은 Creative Commons License 저작자표시-비영리-동일조건변경허락 조건으로 이용할 수 있습니다. 
